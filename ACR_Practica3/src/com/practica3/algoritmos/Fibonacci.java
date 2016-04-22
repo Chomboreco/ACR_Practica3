@@ -6,6 +6,7 @@
 package com.practica3.algoritmos;
 
 import java.util.ArrayList;
+import java.util.List;
 
 /**
  *
@@ -13,9 +14,9 @@ import java.util.ArrayList;
  */
 public class Fibonacci {
 
-    ArrayList<Integer> succession;
-    boolean state;
-    int lastTwo[];
+    private List<Integer> succession;
+    private boolean state;
+    private int lastTwo[];
 
     public Fibonacci() {
         succession = new ArrayList<>();
@@ -29,7 +30,7 @@ public class Fibonacci {
         lastTwo[1] = 1;
     }
 
-    public int getCalculation() {
+    public int getNext() {
         int aux = lastTwo[0];
         lastTwo[0] = lastTwo[1];
         lastTwo[1] = aux + lastTwo[1];
