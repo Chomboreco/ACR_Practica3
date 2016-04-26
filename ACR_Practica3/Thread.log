@@ -1,0 +1,22 @@
+[Tue Apr 26 10:40:53 CDT 2016] [info] [Thread 1] Interrumpiendo: Hilo 1 - [Interrupciones]:1
+[Tue Apr 26 10:40:54 CDT 2016] [info] [Thread 2] Interrumpiendo: Hilo 2 - [Interrupciones]:1
+[Tue Apr 26 10:40:55 CDT 2016] [info] [Thread 1] Interrumpiendo: Hilo 1 - [Interrupciones]:2
+[Tue Apr 26 10:40:57 CDT 2016] [info] [Thread 2] Interrumpiendo: Hilo 2 - [Interrupciones]:2
+[Tue Apr 26 10:40:57 CDT 2016] [info] [Thread 1] Interrumpiendo: Hilo 1 - [Interrupciones]:3
+[Tue Apr 26 10:40:59 CDT 2016] [info] [Thread 1] Interrumpiendo: Hilo 1 - [Interrupciones]:4
+[Tue Apr 26 10:41:00 CDT 2016] [info] [Thread 2] Interrumpiendo: Hilo 2 - [Interrupciones]:3
+[Tue Apr 26 10:41:01 CDT 2016] [info] [Thread 1] Interrumpiendo: Hilo 1 - [Interrupciones]:5
+[Tue Apr 26 10:41:03 CDT 2016] [info] [Thread 1] Interrumpiendo: Hilo 1 - [Interrupciones]:6
+[Tue Apr 26 10:41:03 CDT 2016] [info] [Thread 2] Interrumpiendo: Hilo 2 - [Interrupciones]:4
+[Tue Apr 26 10:41:05 CDT 2016] [info] [Thread 1] Interrumpiendo: Hilo 1 - [Interrupciones]:7
+[Tue Apr 26 10:41:06 CDT 2016] [info] [Thread 2] Interrumpiendo: Hilo 2 - [Interrupciones]:5
+[Tue Apr 26 10:41:07 CDT 2016] [info] [Thread 1] Interrumpiendo: Hilo 1 - [Interrupciones]:8
+[Tue Apr 26 10:41:09 CDT 2016] [info] [Thread 1] Interrumpiendo: Hilo 1 - [Interrupciones]:9
+[Tue Apr 26 10:41:09 CDT 2016] [info] [Thread 2] Interrumpiendo: Hilo 2 - [Interrupciones]:6
+[Tue Apr 26 10:41:11 CDT 2016] [info] [Thread 1] Interrumpiendo: Hilo 1 - [Interrupciones]:10
+[Tue Apr 26 10:41:11 CDT 2016] [info] [Thread 1] == Hilo 1 ha terminado de imprimir ==
+[Tue Apr 26 10:41:12 CDT 2016] [info] [Thread 2] Interrumpiendo: Hilo 2 - [Interrupciones]:7
+[Tue Apr 26 10:41:15 CDT 2016] [info] [Thread 2] Interrumpiendo: Hilo 2 - [Interrupciones]:8
+[Tue Apr 26 10:41:18 CDT 2016] [info] [Thread 2] Interrumpiendo: Hilo 2 - [Interrupciones]:9
+[Tue Apr 26 10:41:21 CDT 2016] [info] [Thread 2] Interrumpiendo: Hilo 2 - [Interrupciones]:10
+[Tue Apr 26 10:41:21 CDT 2016] [info] [Thread 2] == Hilo 2 ha terminado de imprimir ==
